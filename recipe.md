@@ -7,4 +7,3 @@ You need the folowing ingredients:
 1. Nachos
 2. Chicken
 3. Wraps
-   ..\* hot sauce
